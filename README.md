@@ -2,7 +2,7 @@
 
 Regional analysis of healthcare supply across the **53 districts (Kreise and kreisfreie Städte) of North Rhine-Westphalia**: general practitioners (Hausärzte), specialists, pediatricians and hospital beds, 2015–2024.
 
-[![Tableau dashboard](https://public.tableau.com/static/images/NR/NRWHealthcareSupply/NRWHealthcare/1.png)](https://public.tableau.com/views/NRWHealthcareSupply/NRWHealthcare)
+[![Tableau dashboard](images/dashboard.png)](https://public.tableau.com/views/NRWHealthcareSupply/NRWHealthcare)
 
 ## Links
 
@@ -83,6 +83,7 @@ Google BigQuery (SQL) · Python (pandas, NumPy, SciPy, matplotlib, seaborn) · G
 │   ├── nrw_healthcare_long.csv       # long format (loaded into BigQuery)
 │   ├── nrw_supply_wide.csv           # one row per district and year
 │   └── nrw_tableau_districts.csv     # one row per district, used in Tableau
+├── images/dashboard.png              # dashboard screenshot
 └── README.md
 ```
 
