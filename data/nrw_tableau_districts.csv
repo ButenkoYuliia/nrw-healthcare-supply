@@ -1,54 +1,54 @@
-ags,kreis,kreis_type,doctors,gps,general_practitioners,internists,pediatricians,gps_2015,gps_change_pct,population_2023,risk_zone,beds_2015,beds_2022,beds_change_pct,state,country
-05111,"Düsseldorf, Stadt",urban,17.83,6.06,3.28,1.45,6.52,6.53,-7.2,616319,False,8.3,6.86,-17.3,Nordrhein-Westfalen,Germany
-05112,"Duisburg, Stadt",urban,12.05,4.78,2.23,0.98,4.89,5.43,-12.0,503185,True,9.38,8.54,-9.0,Nordrhein-Westfalen,Germany
-05113,"Essen, Stadt",urban,14.44,5.32,2.49,1.06,7.94,5.78,-8.0,574082,True,9.64,8.37,-13.2,Nordrhein-Westfalen,Germany
-05114,"Krefeld, Stadt",urban,17.72,5.75,3.41,0.95,7.17,7.24,-20.6,230393,True,9.3,8.58,-7.7,Nordrhein-Westfalen,Germany
-05116,"Mönchengladbach, Stadt",urban,17.7,5.31,2.58,2.81,4.21,6.56,-19.1,267667,True,8.32,7.08,-14.9,Nordrhein-Westfalen,Germany
-05117,"Mülheim an der Ruhr, Stadt",urban,14.74,6.53,3.24,0.69,8.15,5.61,16.4,172887,False,5.38,4.63,-13.9,Nordrhein-Westfalen,Germany
-05119,"Oberhausen, Stadt",urban,12.68,5.48,3.14,1.54,4.27,5.32,3.0,213510,False,7.14,5.25,-26.5,Nordrhein-Westfalen,Germany
-05120,"Remscheid, Stadt",urban,16.52,6.06,3.07,1.49,4.98,6.24,-2.9,114061,False,9.32,8.95,-4.0,Nordrhein-Westfalen,Germany
-05122,"Solingen, Klingenstadt",rural,16.06,6.46,3.56,0.18,3.44,6.13,5.4,166078,False,7.21,5.1,-29.3,Nordrhein-Westfalen,Germany
-05124,"Wuppertal, Stadt",urban,16.47,5.83,2.93,1.62,6.53,6.22,-6.3,358592,False,6.07,5.95,-2.0,Nordrhein-Westfalen,Germany
-05154,Kleve,rural,10.81,5.34,2.58,0.37,4.73,5.44,-1.8,319928,True,5.78,5.31,-8.1,Nordrhein-Westfalen,Germany
-05158,Mettmann,rural,13.95,6.01,2.34,0.55,6.11,6.16,-2.4,489760,False,4.92,4.37,-11.2,Nordrhein-Westfalen,Germany
-05162,Rhein-Kreis Neuss,rural,12.95,5.67,3.02,0.24,4.23,5.81,-2.4,457398,True,4.59,4.44,-3.3,Nordrhein-Westfalen,Germany
-05166,Viersen,rural,12.82,6.45,2.59,0.47,5.21,5.96,8.2,297504,False,4.84,4.65,-3.9,Nordrhein-Westfalen,Germany
-05170,Wesel,rural,12.67,4.8,2.47,1.14,4.31,5.19,-7.5,457545,True,5.43,6.11,12.5,Nordrhein-Westfalen,Germany
-05314,"Bonn, Stadt",urban,22.98,6.19,3.4,1.95,4.78,7.02,-11.8,321680,False,12.9,13.23,2.6,Nordrhein-Westfalen,Germany
-05315,"Köln, Stadt",urban,18.57,6.39,3.43,1.27,8.4,6.61,-3.3,1024408,False,6.9,6.72,-2.6,Nordrhein-Westfalen,Germany
-05316,"Leverkusen, Stadt",urban,18.27,7.24,2.97,0.53,5.41,6.96,4.0,167850,False,6.7,5.25,-21.6,Nordrhein-Westfalen,Germany
-05334,Städteregion Aachen,urban,16.72,6.44,3.55,0.91,7.74,6.73,-4.3,582463,False,7.22,6.34,-12.2,Nordrhein-Westfalen,Germany
-05358,Düren,rural,13.03,7.02,3.47,0.86,4.22,6.37,10.2,278462,False,6.86,6.53,-4.8,Nordrhein-Westfalen,Germany
-05362,Rhein-Erft-Kreis,rural,13.35,6.38,3.87,1.11,4.56,6.14,3.9,476412,False,3.06,2.62,-14.4,Nordrhein-Westfalen,Germany
-05366,Euskirchen,rural,12.49,5.63,4.29,0.3,5.6,6.36,-11.5,201841,True,5.73,5.99,4.5,Nordrhein-Westfalen,Germany
-05370,Heinsberg,rural,12.36,6.3,3.87,0.49,3.47,6.13,2.8,262149,False,3.98,3.84,-3.5,Nordrhein-Westfalen,Germany
-05374,Oberbergischer Kreis,rural,12.33,5.36,3.25,1.9,3.42,5.79,-7.4,273963,True,5.69,5.54,-2.6,Nordrhein-Westfalen,Germany
-05378,Rheinisch-Bergischer Kreis,rural,13.82,5.7,3.1,1.51,3.77,5.97,-4.5,283607,True,4.15,4.06,-2.2,Nordrhein-Westfalen,Germany
-05382,Rhein-Sieg-Kreis,rural,12.98,6.11,3.65,1.07,4.62,6.12,-0.2,605283,False,2.46,2.13,-13.4,Nordrhein-Westfalen,Germany
-05512,"Bottrop, Stadt",urban,13.67,5.91,4.05,0.93,5.5,5.29,11.7,118912,False,6.01,5.85,-2.7,Nordrhein-Westfalen,Germany
-05513,"Gelsenkirchen, Stadt",urban,13.03,4.78,2.95,0.93,2.32,5.65,-15.4,267284,True,6.73,8.64,28.4,Nordrhein-Westfalen,Germany
-05515,"Münster, Stadt",urban,20.15,6.2,4.06,1.56,8.01,6.58,-5.8,307071,False,11.9,11.1,-6.7,Nordrhein-Westfalen,Germany
-05554,Borken,rural,11.74,5.36,3.7,0.87,4.44,5.51,-2.7,379787,True,5.07,5.02,-1.0,Nordrhein-Westfalen,Germany
-05558,Coesfeld,rural,13.08,7.02,4.52,0.57,5.09,6.4,9.7,226217,False,3.92,4.18,6.6,Nordrhein-Westfalen,Germany
-05562,Recklinghausen,rural,12.96,5.84,3.64,0.89,4.44,5.37,8.8,622855,False,7.98,6.42,-19.5,Nordrhein-Westfalen,Germany
-05566,Steinfurt,rural,12.86,6.4,4.76,0.86,3.13,6.38,0.3,450042,False,4.29,4.6,7.2,Nordrhein-Westfalen,Germany
-05570,Warendorf,rural,11.99,5.94,3.47,0.96,5.55,5.89,0.8,282216,False,4.85,4.62,-4.7,Nordrhein-Westfalen,Germany
-05711,"Bielefeld, Stadt",urban,17.43,5.73,3.95,0.48,7.6,5.84,-1.9,331519,True,11.93,9.86,-17.4,Nordrhein-Westfalen,Germany
-05754,Gütersloh,rural,10.69,5.08,2.88,0.82,4.44,4.76,6.7,363674,False,3.94,3.66,-7.1,Nordrhein-Westfalen,Germany
-05758,Herford,rural,12.07,5.03,3.14,0.59,5.51,5.25,-4.2,254593,True,4.3,4.4,2.3,Nordrhein-Westfalen,Germany
-05762,Höxter,rural,11.99,5.82,4.6,0.0,1.57,6.39,-8.9,139042,False,7.4,7.05,-4.7,Nordrhein-Westfalen,Germany
-05766,Lippe,rural,11.58,4.52,3.05,0.89,9.64,5.8,-22.1,347613,True,4.6,3.98,-13.5,Nordrhein-Westfalen,Germany
-05770,Minden-Lübbecke,rural,12.76,6.02,4.37,0.56,5.08,5.95,1.2,320925,False,7.57,6.7,-11.5,Nordrhein-Westfalen,Germany
-05774,Paderborn,rural,11.97,5.73,3.29,0.85,5.39,5.68,0.9,315606,False,5.81,5.58,-4.0,Nordrhein-Westfalen,Germany
-05911,"Bochum, Stadt",urban,16.03,6.16,3.46,1.14,6.92,5.48,12.4,357024,False,9.78,10.09,3.2,Nordrhein-Westfalen,Germany
-05913,"Dortmund, Stadt",urban,13.7,5.47,2.77,0.61,8.32,5.13,6.6,601343,False,6.62,6.56,-0.9,Nordrhein-Westfalen,Germany
-05914,"Hagen, Stadt der FernUniversität",urban,14.18,5.88,4.2,0.53,8.3,6.24,-5.8,190640,False,9.11,8.09,-11.2,Nordrhein-Westfalen,Germany
-05915,"Hamm, Stadt",urban,13.39,5.33,2.83,1.5,6.19,5.07,5.1,179380,False,9.69,9.37,-3.3,Nordrhein-Westfalen,Germany
-05916,"Herne, Stadt",urban,14.5,4.3,2.44,1.8,2.66,5.26,-18.3,156154,True,10.36,10.51,1.4,Nordrhein-Westfalen,Germany
-05954,Ennepe-Ruhr-Kreis,rural,14.77,5.63,3.37,2.04,3.09,5.4,4.3,315069,False,5.81,5.34,-8.1,Nordrhein-Westfalen,Germany
-05958,Hochsauerlandkreis,rural,11.77,4.75,3.18,1.0,4.27,5.9,-19.5,261193,True,7.96,8.17,2.6,Nordrhein-Westfalen,Germany
-05962,Märkischer Kreis,rural,12.13,5.86,3.73,0.69,5.44,5.68,3.2,408899,False,6.85,6.04,-11.8,Nordrhein-Westfalen,Germany
-05966,Olpe,rural,11.26,5.59,3.55,0.45,4.27,6.23,-10.3,132426,True,6.1,6.03,-1.1,Nordrhein-Westfalen,Germany
-05970,Siegen-Wittgenstein,rural,13.5,5.11,3.43,0.77,3.34,5.87,-12.9,274379,True,7.53,7.53,0.0,Nordrhein-Westfalen,Germany
-05974,Soest,rural,12.59,6.76,4.83,0.47,4.8,5.92,14.2,300347,False,6.75,7.07,4.7,Nordrhein-Westfalen,Germany
-05978,Unna,rural,12.88,5.59,3.68,0.69,5.56,5.45,2.6,396283,False,6.78,6.89,1.6,Nordrhein-Westfalen,Germany
+ags,kreis,kreis_name,kreis_type,doctors,gps,general_practitioners,internists,pediatricians,gps_2015,gps_change_pct,population_2023,risk_zone,beds_2015,beds_2022,beds_change_pct,state,country
+05111,"Düsseldorf, Stadt",Düsseldorf,urban,17.83,6.06,3.28,1.45,6.52,6.53,-7.2,616319,False,8.3,6.86,-17.3,Nordrhein-Westfalen,Germany
+05112,"Duisburg, Stadt",Duisburg,urban,12.05,4.78,2.23,0.98,4.89,5.43,-12.0,503185,True,9.38,8.54,-9.0,Nordrhein-Westfalen,Germany
+05113,"Essen, Stadt",Essen,urban,14.44,5.32,2.49,1.06,7.94,5.78,-8.0,574082,True,9.64,8.37,-13.2,Nordrhein-Westfalen,Germany
+05114,"Krefeld, Stadt",Krefeld,urban,17.72,5.75,3.41,0.95,7.17,7.24,-20.6,230393,True,9.3,8.58,-7.7,Nordrhein-Westfalen,Germany
+05116,"Mönchengladbach, Stadt",Mönchengladbach,urban,17.7,5.31,2.58,2.81,4.21,6.56,-19.1,267667,True,8.32,7.08,-14.9,Nordrhein-Westfalen,Germany
+05117,"Mülheim an der Ruhr, Stadt",Mülheim an der Ruhr,urban,14.74,6.53,3.24,0.69,8.15,5.61,16.4,172887,False,5.38,4.63,-13.9,Nordrhein-Westfalen,Germany
+05119,"Oberhausen, Stadt",Oberhausen,urban,12.68,5.48,3.14,1.54,4.27,5.32,3.0,213510,False,7.14,5.25,-26.5,Nordrhein-Westfalen,Germany
+05120,"Remscheid, Stadt",Remscheid,urban,16.52,6.06,3.07,1.49,4.98,6.24,-2.9,114061,False,9.32,8.95,-4.0,Nordrhein-Westfalen,Germany
+05122,"Solingen, Klingenstadt",Solingen,rural,16.06,6.46,3.56,0.18,3.44,6.13,5.4,166078,False,7.21,5.1,-29.3,Nordrhein-Westfalen,Germany
+05124,"Wuppertal, Stadt",Wuppertal,urban,16.47,5.83,2.93,1.62,6.53,6.22,-6.3,358592,False,6.07,5.95,-2.0,Nordrhein-Westfalen,Germany
+05154,Kleve,Kleve,rural,10.81,5.34,2.58,0.37,4.73,5.44,-1.8,319928,True,5.78,5.31,-8.1,Nordrhein-Westfalen,Germany
+05158,Mettmann,Mettmann,rural,13.95,6.01,2.34,0.55,6.11,6.16,-2.4,489760,False,4.92,4.37,-11.2,Nordrhein-Westfalen,Germany
+05162,Rhein-Kreis Neuss,Rhein-Kreis Neuss,rural,12.95,5.67,3.02,0.24,4.23,5.81,-2.4,457398,True,4.59,4.44,-3.3,Nordrhein-Westfalen,Germany
+05166,Viersen,Viersen,rural,12.82,6.45,2.59,0.47,5.21,5.96,8.2,297504,False,4.84,4.65,-3.9,Nordrhein-Westfalen,Germany
+05170,Wesel,Wesel,rural,12.67,4.8,2.47,1.14,4.31,5.19,-7.5,457545,True,5.43,6.11,12.5,Nordrhein-Westfalen,Germany
+05314,"Bonn, Stadt",Bonn,urban,22.98,6.19,3.4,1.95,4.78,7.02,-11.8,321680,False,12.9,13.23,2.6,Nordrhein-Westfalen,Germany
+05315,"Köln, Stadt",Köln,urban,18.57,6.39,3.43,1.27,8.4,6.61,-3.3,1024408,False,6.9,6.72,-2.6,Nordrhein-Westfalen,Germany
+05316,"Leverkusen, Stadt",Leverkusen,urban,18.27,7.24,2.97,0.53,5.41,6.96,4.0,167850,False,6.7,5.25,-21.6,Nordrhein-Westfalen,Germany
+05334,Städteregion Aachen,Aachen,urban,16.72,6.44,3.55,0.91,7.74,6.73,-4.3,582463,False,7.22,6.34,-12.2,Nordrhein-Westfalen,Germany
+05358,Düren,Düren,rural,13.03,7.02,3.47,0.86,4.22,6.37,10.2,278462,False,6.86,6.53,-4.8,Nordrhein-Westfalen,Germany
+05362,Rhein-Erft-Kreis,Rhein-Erft-Kreis,rural,13.35,6.38,3.87,1.11,4.56,6.14,3.9,476412,False,3.06,2.62,-14.4,Nordrhein-Westfalen,Germany
+05366,Euskirchen,Euskirchen,rural,12.49,5.63,4.29,0.3,5.6,6.36,-11.5,201841,True,5.73,5.99,4.5,Nordrhein-Westfalen,Germany
+05370,Heinsberg,Heinsberg,rural,12.36,6.3,3.87,0.49,3.47,6.13,2.8,262149,False,3.98,3.84,-3.5,Nordrhein-Westfalen,Germany
+05374,Oberbergischer Kreis,Oberbergischer Kreis,rural,12.33,5.36,3.25,1.9,3.42,5.79,-7.4,273963,True,5.69,5.54,-2.6,Nordrhein-Westfalen,Germany
+05378,Rheinisch-Bergischer Kreis,Rheinisch-Bergischer Kreis,rural,13.82,5.7,3.1,1.51,3.77,5.97,-4.5,283607,True,4.15,4.06,-2.2,Nordrhein-Westfalen,Germany
+05382,Rhein-Sieg-Kreis,Rhein-Sieg-Kreis,rural,12.98,6.11,3.65,1.07,4.62,6.12,-0.2,605283,False,2.46,2.13,-13.4,Nordrhein-Westfalen,Germany
+05512,"Bottrop, Stadt",Bottrop,urban,13.67,5.91,4.05,0.93,5.5,5.29,11.7,118912,False,6.01,5.85,-2.7,Nordrhein-Westfalen,Germany
+05513,"Gelsenkirchen, Stadt",Gelsenkirchen,urban,13.03,4.78,2.95,0.93,2.32,5.65,-15.4,267284,True,6.73,8.64,28.4,Nordrhein-Westfalen,Germany
+05515,"Münster, Stadt",Münster,urban,20.15,6.2,4.06,1.56,8.01,6.58,-5.8,307071,False,11.9,11.1,-6.7,Nordrhein-Westfalen,Germany
+05554,Borken,Borken,rural,11.74,5.36,3.7,0.87,4.44,5.51,-2.7,379787,True,5.07,5.02,-1.0,Nordrhein-Westfalen,Germany
+05558,Coesfeld,Coesfeld,rural,13.08,7.02,4.52,0.57,5.09,6.4,9.7,226217,False,3.92,4.18,6.6,Nordrhein-Westfalen,Germany
+05562,Recklinghausen,Recklinghausen,rural,12.96,5.84,3.64,0.89,4.44,5.37,8.8,622855,False,7.98,6.42,-19.5,Nordrhein-Westfalen,Germany
+05566,Steinfurt,Steinfurt,rural,12.86,6.4,4.76,0.86,3.13,6.38,0.3,450042,False,4.29,4.6,7.2,Nordrhein-Westfalen,Germany
+05570,Warendorf,Warendorf,rural,11.99,5.94,3.47,0.96,5.55,5.89,0.8,282216,False,4.85,4.62,-4.7,Nordrhein-Westfalen,Germany
+05711,"Bielefeld, Stadt",Bielefeld,urban,17.43,5.73,3.95,0.48,7.6,5.84,-1.9,331519,True,11.93,9.86,-17.4,Nordrhein-Westfalen,Germany
+05754,Gütersloh,Gütersloh,rural,10.69,5.08,2.88,0.82,4.44,4.76,6.7,363674,False,3.94,3.66,-7.1,Nordrhein-Westfalen,Germany
+05758,Herford,Herford,rural,12.07,5.03,3.14,0.59,5.51,5.25,-4.2,254593,True,4.3,4.4,2.3,Nordrhein-Westfalen,Germany
+05762,Höxter,Höxter,rural,11.99,5.82,4.6,0.0,1.57,6.39,-8.9,139042,False,7.4,7.05,-4.7,Nordrhein-Westfalen,Germany
+05766,Lippe,Lippe,rural,11.58,4.52,3.05,0.89,9.64,5.8,-22.1,347613,True,4.6,3.98,-13.5,Nordrhein-Westfalen,Germany
+05770,Minden-Lübbecke,Minden-Lübbecke,rural,12.76,6.02,4.37,0.56,5.08,5.95,1.2,320925,False,7.57,6.7,-11.5,Nordrhein-Westfalen,Germany
+05774,Paderborn,Paderborn,rural,11.97,5.73,3.29,0.85,5.39,5.68,0.9,315606,False,5.81,5.58,-4.0,Nordrhein-Westfalen,Germany
+05911,"Bochum, Stadt",Bochum,urban,16.03,6.16,3.46,1.14,6.92,5.48,12.4,357024,False,9.78,10.09,3.2,Nordrhein-Westfalen,Germany
+05913,"Dortmund, Stadt",Dortmund,urban,13.7,5.47,2.77,0.61,8.32,5.13,6.6,601343,False,6.62,6.56,-0.9,Nordrhein-Westfalen,Germany
+05914,"Hagen, Stadt der FernUniversität",Hagen,urban,14.18,5.88,4.2,0.53,8.3,6.24,-5.8,190640,False,9.11,8.09,-11.2,Nordrhein-Westfalen,Germany
+05915,"Hamm, Stadt",Hamm,urban,13.39,5.33,2.83,1.5,6.19,5.07,5.1,179380,False,9.69,9.37,-3.3,Nordrhein-Westfalen,Germany
+05916,"Herne, Stadt",Herne,urban,14.5,4.3,2.44,1.8,2.66,5.26,-18.3,156154,True,10.36,10.51,1.4,Nordrhein-Westfalen,Germany
+05954,Ennepe-Ruhr-Kreis,Ennepe-Ruhr-Kreis,rural,14.77,5.63,3.37,2.04,3.09,5.4,4.3,315069,False,5.81,5.34,-8.1,Nordrhein-Westfalen,Germany
+05958,Hochsauerlandkreis,Hochsauerlandkreis,rural,11.77,4.75,3.18,1.0,4.27,5.9,-19.5,261193,True,7.96,8.17,2.6,Nordrhein-Westfalen,Germany
+05962,Märkischer Kreis,Märkischer Kreis,rural,12.13,5.86,3.73,0.69,5.44,5.68,3.2,408899,False,6.85,6.04,-11.8,Nordrhein-Westfalen,Germany
+05966,Olpe,Olpe,rural,11.26,5.59,3.55,0.45,4.27,6.23,-10.3,132426,True,6.1,6.03,-1.1,Nordrhein-Westfalen,Germany
+05970,Siegen-Wittgenstein,Siegen-Wittgenstein,rural,13.5,5.11,3.43,0.77,3.34,5.87,-12.9,274379,True,7.53,7.53,0.0,Nordrhein-Westfalen,Germany
+05974,Soest,Soest,rural,12.59,6.76,4.83,0.47,4.8,5.92,14.2,300347,False,6.75,7.07,4.7,Nordrhein-Westfalen,Germany
+05978,Unna,Unna,rural,12.88,5.59,3.68,0.69,5.56,5.45,2.6,396283,False,6.78,6.89,1.6,Nordrhein-Westfalen,Germany
